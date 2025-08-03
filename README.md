@@ -1,6 +1,6 @@
 # Google Advanced Data Analytics Capstone Project
 
-![Google Certificate](images/certificate.png#floatright)
+<img src="images/certificate.png" alt="Google Certificate" width="200" align="right">
 
 This repository contains the final capstone project for the **Google Advanced Data Analytics Professional Certificate**. The project follows the PACE framework (Plan, Analyze, Construct, Execute) to solve a real-world business challenge using a complete data analytics pipeline.
 
@@ -31,6 +31,7 @@ This repository contains the final capstone project for the **Google Advanced Da
 
 ## 🗂️ Project Structure
 
+```
 Google_Advanced_Data_Analytics_Capstone_Project/
 │
 ├── data/ # Raw and cleaned datasets
@@ -48,6 +49,7 @@ Google_Advanced_Data_Analytics_Capstone_Project/
 │
 ├── README.md # This file
 └── requirements.txt # Python dependencies
+```
 
 ---
 
