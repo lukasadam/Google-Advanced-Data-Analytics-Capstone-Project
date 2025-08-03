@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Exclude DS_Store files
+#  macOS creates .DS_Store files in directories to store custom attributes of a folder
+.DS_Store
+
+# Exclude figures
+figures/
+
+# Exclude data files
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.hdf5
+*.h5
+*.feather
+*.pkl
+*.pickle
+*.csv

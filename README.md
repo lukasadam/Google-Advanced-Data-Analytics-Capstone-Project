@@ -71,8 +71,3 @@ Apply advanced data analytics techniques to extract insights, build predictive m
 ## 🏁 Outcome
 
 The capstone demonstrates proficiency in the full data analysis lifecycle, from business problem framing to model execution and stakeholder communication.
-
----
-
-## 🗂️ Project Structure
-
