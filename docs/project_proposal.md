@@ -14,7 +14,7 @@ Salifort Motors faces a high rate of employee turnover, which affects operationa
 
 ## Methodology
 1. **Data Assessment & Preparation**:
-   - Clean and consolidate survey and HR datasets.
+   - Clean and consolidate HR dataset.
    - Explore patterns in turnover behavior across job roles, departments, and workloads.
 
 2. **Feature Engineering**:
@@ -23,8 +23,7 @@ Salifort Motors faces a high rate of employee turnover, which affects operationa
      - Number of projects
      - Average monthly hours
      - Tenure
-     - Job level
-     - Survey feedback indicators (if available)
+     - Satisfaction level
 
 3. **Model Development**:
    - Train predictive models (logistic regression, decision trees, random forest, XGBoost).
@@ -40,20 +39,11 @@ Salifort Motors faces a high rate of employee turnover, which affects operationa
    - Deliver technical insights and modeling documentation.
 
 ## Data Sources
-- HRIS data: Department, job title, project load, monthly hours, performance records.
-- Employee survey results: Feedback on management, career growth, job satisfaction.
-- Exit interview data (if available).
+- HRIS dataset
 
 ## Timeline
 
-| Phase                     | Duration         |
-|--------------------------|------------------|
-| Data Collection & EDA    | Week 1–2         |
-| Feature Engineering      | Week 3           |
-| Model Development        | Week 4–5         |
-| Insight Extraction       | Week 6           |
-| Recommendation Design    | Week 7           |
-| Final Presentation       | Week 8           |
+<pre><code>```mermaid gantt title Project Timeline dateFormat YYYY-MM-DD axisFormat Week %W section Phases Data Collection & EDA :done, dc, 2025-08-04, 14d Feature Engineering :fe, 2025-08-18, 7d Model Development :md, 2025-08-25, 14d Insight Extraction :ie, 2025-09-08, 7d Recommendation Design :rd, 2025-09-15, 7d Final Presentation :fp, 2025-09-22, 7d ``` </code></pre>
 
 ## Deliverables
 - Predictive model identifying employees at risk of turnover
