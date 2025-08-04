@@ -43,7 +43,17 @@ Salifort Motors faces a high rate of employee turnover, which affects operationa
 
 ## Timeline
 
-<pre><code>```mermaid gantt title Project Timeline dateFormat YYYY-MM-DD axisFormat Week %W section Phases Data Collection & EDA :done, dc, 2025-08-04, 14d Feature Engineering :fe, 2025-08-18, 7d Model Development :md, 2025-08-25, 14d Insight Extraction :ie, 2025-09-08, 7d Recommendation Design :rd, 2025-09-15, 7d Final Presentation :fp, 2025-09-22, 7d ``` </code></pre>
+```
+Week #:                        1     2     3     4     5     6     7
+Phase:
+(P) Planning                 █████
+(A) Data Consolidation & EDA      ██████████
+(C) Feature Engineering                 ███████
+(C) Model Development                       ██████████████
+(E) Insight Extraction                             ███████
+(E) Recommendation Design                              ███████
+(E) Final Presentation                                        ██
+```
 
 ## Deliverables
 - Predictive model identifying employees at risk of turnover
@@ -76,13 +86,14 @@ Salifort Motors faces a high rate of employee turnover, which affects operationa
 
 ## Project Milestones and PACE Assignments
 
-| Milestone                                | Task Description                                                                 | PACE Step      |
-|------------------------------------------|----------------------------------------------------------------------------------|----------------|
-| M1. Data Integration                     | Combine survey and HR data for unified analysis                                 | Prepare        |
-| M2. Exploratory Data Analysis            | Detect turnover trends and data quality issues                                  | Prepare        |
-| M3. Feature Engineering                  | Create variables from workload, department, hours, etc.                         | Prepare        |
-| M4. Model Training                       | Train and tune predictive models                                                | Analyze        |
-| M5. Model Evaluation                     | Assess model performance and robustness                                         | Analyze        |
-| M6. Driver Analysis                      | Identify key variables influencing turnover                                     | Communicate    |
-| M7. Retention Strategy Design            | Develop actionable recommendations based on insights                            | Communicate    |
-| M8. Reporting & Executive Review         | Present findings and recommendations to leadership                              | Execute        |
+| Milestone                                | Task Description                                                                 | PACE Step   |
+|------------------------------------------|----------------------------------------------------------------------------------|-------------|
+| M0. Planning & Scope Definition          | Define goals, timeline, responsibilities, and success criteria                  | Planning    |
+| M1. Data Consolidation                     | Clean & Inspect HR dataset                                  | Analysis    |
+| M2. Exploratory Data Analysis            | Detect turnover trends and data quality issues                                  | Analysis    |
+| M3. Feature Engineering                  | Create variables from workload, department, hours, etc. if useful                        | Creation    |
+| M4. Model Training                       | Train and tune predictive models                                                | Creation    |
+| M5. Model Evaluation                     | Assess model performance and robustness                                         | Execution   |
+| M6. Driver Analysis                      | Identify key variables influencing turnover                                     | Execution   |
+| M7. Retention Strategy Design            | Develop actionable recommendations based on insights                            | Execution   |
+| M8. Reporting & Executive Review         | Present findings and recommendations to leadership                              | Execution   |
