@@ -52,6 +52,8 @@ Google_Advanced_Data_Analytics_Capstone_Project/
 ```
 ---
 
+## Highlights
+
 ## **Capstone project: Data-Driven Strategy for Increasing Employee Retention at Salifort Motors**
 
 ### 📈 Objective
