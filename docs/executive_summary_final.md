@@ -57,12 +57,11 @@ Employees who left the company showed consistent and distinct patterns:
 1. **Design and Launch Employee Retention Programs**
    - Develop targeted initiatives to address root causes of attrition:
      - **Career Advancement & Compensation Equity**: Conduct a salary audit and establish clearer criteria for performance-based raises & promotions. Create fast-track promotion pathways and expand lateral mobility options.
-     - **Mental Health & Burnout Prevention**: Offer flexible scheduling, mental health resources, and workload balancing tools.
-     - **Employee Engagement**: Launch engagement campaigns focused on recognition, inclusion, and feedback responsiveness.
+     - **Mental Health & Burnout Prevention**: Balance workload & reduce stress e.g. through awareness campaigns for mental health or policy shifts. Offer flexible scheduling, mental health resources, and workload balancing tools.
+     - **Employee Engagement**: Identify factors leading to higher job dissatisfaction e.g. through survey. Launch engagement campaigns focusing on recognition & inclusion.
 
 2. **Operationalize the Attrition Risk Model**
    - Integrate the predictive model into HR dashboards and employee management systems.
-   - Automate monthly updates of attrition risk scores to flag high-risk individuals for proactive support.
    - Provide actionable toolkits for people managers based on program strategies.
 
 3. **Evaluate Intervention Impact**

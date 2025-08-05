@@ -10,22 +10,17 @@ This repository contains the final capstone project for the **Google Advanced Da
 
 ### 🔹 Plan
 - `docs/project_proposal.md`: Problem statement, stakeholder analysis, and objectives  
-- `docs/executive_summary_plan.md`: Business understanding and goals  
 
 ### 🔹 Analyze
 - `notebooks/1_data_cleaning.ipynb`: Data preprocessing and cleaning  
 - `notebooks/2_exploratory_analysis.ipynb`: EDA and statistical insights  
-- `notebooks/3_feature_engineering.ipynb`: Transformation and feature selection  
+- `notebooks/3_feature_engineering.ipynb`: Transformation and feature selection
 
 ### 🔹 Construct
 - `notebooks/4_model_building.ipynb`: Machine learning model development  
-- `models/`: Saved model files (e.g., `.pkl`, `.joblib`) and training logs  
-- `docs/model_report.md`: Evaluation metrics and model selection rationale  
 
 ### 🔹 Execute
 - `docs/executive_summary_final.md`: Final presentation of findings and recommendations  
-- `notebooks/5_final_dashboard_or_visuals.ipynb`: Visualizations and key insights  
-- `docs/business_recommendation.md`: Actionable recommendations for stakeholders  
 
 ---
 
@@ -51,8 +46,6 @@ Google_Advanced_Data_Analytics_Capstone_Project/
 └── requirements.txt # Python dependencies
 ```
 ---
-
-## Highlights
 
 ## **Capstone project: Data-Driven Strategy for Increasing Employee Retention at Salifort Motors**
 
@@ -100,3 +93,27 @@ salary|The employee's salary (U.S. dollars)
 - Do you have any ethical considerations in this stage?
 ---
 
+## Highlights
+
+### Advanced Modeling: Ensemble Classifier with Bayesian Optimization
+
+In addition to standard machine learning techniques, I took the model development a step further by training an ensemble classifier using Bayesian optimization. This process led to outstanding performance improvements, optimizing hyperparameters to find the best possible model configuration.
+
+### Key Highlights:
+- Used ensemble methods (e.g., Random Forest, Gradient Boosting) to improve model accuracy.
+- Applied Bayesian optimization for hyperparameter tuning, which significantly enhanced the model's performance compared to baseline methods.
+- Achieved high precision in predicting employee attrition, enabling more accurate and reliable insights.
+
+### Actionable Insights for Employee Retention
+After training and evaluating the model, I transformed the findings into a comprehensive presentation with actionable insights that can guide HR strategies at Salifort Motors. These insights include:
+
+Factors influencing turnover: Disengagement, burnout, compensation gaps, and stalled advancement.
+
+Key performance indicators: The predictive model highlighted critical factors such as satisfaction levels, time spent in the company, and promotion history that strongly influence employee attrition.
+
+The findings and visualizations were structured to provide the HR department with clear recommendations / action items for improving employee satisfaction and reducing turnover, such as:
+- Establishing clearer criteria for performance-based raises and promotions to foster a more dynamic and responsive company culture.
+- Launching awareness campaigns (focused on mental health and burnout) to better balance workloads and alleviate stress.
+
+Additionally, the analysis highlights the importance of identifying factors contributing to high job satisfaction and addressing areas of dissatisfaction, such as:
+- Identifying key drivers of job dissatisfaction, potentially through employee surveys, and launching engagement campaigns focused on recognition and inclusion.
